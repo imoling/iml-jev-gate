@@ -1,0 +1,10 @@
+# 密钥和本机产生的文件，不要提交
+.env
+config.json
+decisions.jsonl
+cache.json
+*.bak-*
+
+__pycache__/
+*.pyc
+.DS_Store
